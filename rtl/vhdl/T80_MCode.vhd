@@ -807,11 +807,11 @@ begin
 				end case;
 			elsif IntCycle = '1' then
 				-- INT (IM 2)
-				if mode = 3 then
-					MCycles <= "011";
-				else
-					MCycles <= "101";
-				end if;
+        if mode = 3 then
+          MCycles <= "011";
+        else
+          MCycles <= "101";
+        end if;
 				case to_integer(unsigned(MCycle)) is
 				when 1 =>
 					LDZ <= '1';
