@@ -113,11 +113,11 @@ begin
 				DI => CPU_D,
 				DO => D);
 
-	u1 : entity work.MonZ80
+	u1 : entity work.Z80Rom
 			port map(
-				Clk => Clk,
-				A => A(10 downto 0),
-				D => ROM_D);
+				clk => Clk,
+				a => A(10 downto 0),
+				spo => ROM_D);
 
 	u2 : entity work.SSRAM
 			generic map(
