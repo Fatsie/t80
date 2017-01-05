@@ -1,0 +1,5 @@
+sw/hex2rom
+sw/xrom
+build
+fusesoc.log
+*~
