@@ -62,6 +62,7 @@
 //
 
 #include <stdio.h>
+#include <string.h>
 #include <string>
 #include <vector>
 #include <iostream>
@@ -683,12 +684,12 @@ int main (int argc, char *argv[])
 			printf("\n\tport(");
 			if (O == 'z')
 			{
-				printf("\n\t\tCE_n\t: in std_logic;", dWidth - 1);
-				printf("\n\t\tOE_n\t: in std_logic;", dWidth - 1);
+				printf("\n\t\tCE_n\t: in std_logic;");
+				printf("\n\t\tOE_n\t: in std_logic;");
 			}
 			if (O == 's')
 			{
-				printf("\n\t\tClk\t: in std_logic;", dWidth - 1);
+				printf("\n\t\tClk\t: in std_logic;");
 			}
 			printf("\n\t\tA\t: in std_logic_vector(%d downto 0);", aWidth - 1);
 			printf("\n\t\tD\t: out std_logic_vector(%d downto 0)", dWidth - 1);

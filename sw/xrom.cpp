@@ -348,7 +348,7 @@ int main (int argc, char *argv[])
 		{
 			printf("\n\n\tbG1: for J in 0 to %d generate", bytes - 1);
 			printf("\n\t\tB%s : RAMB4_S8", argv[1]);
-			printf("\n\t\t\tport map (DI => \"00000000\", EN => '1', RST => '0', WE => '0', CLK => Clk, ADDR => A(8 downto 0), DO => bRAMOut(7 + 8 * J downto 8 * J));", argv[1]);
+			printf("\n\t\t\tport map (DI => \"00000000\", EN => '1', RST => '0', WE => '0', CLK => Clk, ADDR => A(8 downto 0), DO => bRAMOut(7 + 8 * J downto 8 * J));");
 			printf("\n\tend generate;");
 			printf("\n\n\t");
 			if (selectIter)
