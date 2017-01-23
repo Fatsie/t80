@@ -1,0 +1,19 @@
+CAPI=1
+[main]
+name = freecores.github.io:t80:Z80SoC_Atlys
+backend = ise
+depend = freecores.github.io:t80:T80X
+description = Z80 SoC based on T80 core on Atlys
+
+[fileset rtl]
+files =
+ system/vhdl/Z80SoC_Atlys.vhd
+file_type = vhdlSource
+
+[ise]
+ucf_files = system/data/atlys.ucf
+family = spartan6
+device = xc6slx45
+package = csg324
+speed = -2
+top_module = Z80SoC_Atlys

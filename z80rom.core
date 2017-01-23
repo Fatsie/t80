@@ -1,0 +1,18 @@
+CAPI=1
+[main]
+name = freecores.github.io:t80:Z80Rom
+description = ROM for Z80 debug
+simulators = isim
+
+[fileset coregen]
+files =
+ syn/xilinx/coregen/ROM80.xco
+ syn/xilinx/coregen/Atlys.cgp
+ bench/asm/TestBench.coe
+file_type = user
+
+[provider]
+name = coregen
+script_file = syn/xilinx/coregen/ROM80.xco
+project_file = syn/xilinx/coregen/Atlys.cgp
+extra_files = bench/asm/TestBench.coe

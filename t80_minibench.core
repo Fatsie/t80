@@ -1,0 +1,33 @@
+CAPI=1
+[main]
+name = freecores.github.io:t80:T80_MiniBench
+simulators = isim ghdl
+description = T80 cpu (Z80, Intel 8080 and GameBoy)
+
+[fileset rtl]
+files =
+ rtl/vhdl/T80_Pack.vhd
+ rtl/vhdl/T80_ALU.vhd
+ rtl/vhdl/T80_MCode.vhd
+ rtl/vhdl/T80_Reg.vhd
+ rtl/vhdl/T80.vhd
+ rtl/vhdl/T80a.vhd
+ rtl/vhdl/T80sed.vhd
+ rtl/vhdl/T80se.vhd
+ rtl/vhdl/T80s.vhd
+ rtl/vhdl/GBse.vhd
+ rtl/vhdl/T8080se.vhd
+ rtl/vhdl/Z80.vhd
+file_type = vhdlSource
+
+[fileset tb]
+files =
+ bench/vhdl/SRAM.vhd
+ bench/vhdl/ROM80.vhd
+ bench/vhdl/TestBenchMini.vhd
+file_type = vhdlSource-2008
+scope = private
+usage = sim
+
+[simulator]
+toplevel = TestBenchMini

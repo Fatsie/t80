@@ -1,0 +1,97 @@
+Welcome to Xilinx CORE Generator.
+Help system initialized.
+The IP Catalog has been reloaded.
+View License StatusINFO:sim:172 - Generating IP...
+WARNING:sim:100 - The Simulation File Type <Behavioral> is not valid for this
+   core. Overriding with File Type <Structural>.
+Starting license status viewer...
+WARNING:coreutil:804 - Duplication of module names within IP RepositoryManager
+   for 'xilinx.com:ip:tri_mode_eth_mac:4.5' and
+   'xilinx.com:ip:tri_mode_eth_mac:4.4' (tri_mode_eth_mac)
+WARNING:coreutil:804 - Duplication of module names within IP RepositoryManager
+   for 'xilinx.com:ip:tri_mode_eth_mac:4.6' and
+   'xilinx.com:ip:tri_mode_eth_mac:4.4' (tri_mode_eth_mac)
+WARNING:coreutil:804 - Duplication of module names within IP RepositoryManager
+   for 'xilinx.com:ip:tri_mode_eth_mac:5.1' and
+   'xilinx.com:ip:tri_mode_eth_mac:4.4' (tri_mode_eth_mac)
+WARNING:coreutil:804 - Duplication of module names within IP RepositoryManager
+   for 'xilinx.com:ip:tri_mode_eth_mac:5.2' and
+   'xilinx.com:ip:tri_mode_eth_mac:4.4' (tri_mode_eth_mac)
+WARNING:coreutil:804 - Duplication of module names within IP RepositoryManager
+   for 'xilinx.com:ip:tri_mode_eth_mac:5.3' and
+   'xilinx.com:ip:tri_mode_eth_mac:4.4' (tri_mode_eth_mac)
+WARNING:coreutil:804 - Duplication of module names within IP RepositoryManager
+   for 'xilinx.com:ip:tri_mode_eth_mac:5.4' and
+   'xilinx.com:ip:tri_mode_eth_mac:4.4' (tri_mode_eth_mac)
+WARNING:coreutil:804 - Duplication of module names within IP RepositoryManager
+   for 'xilinx.com:ip:tri_mode_eth_mac:5.5' and
+   'xilinx.com:ip:tri_mode_eth_mac:4.4' (tri_mode_eth_mac)
+WARNING:coreutil:804 - Duplication of module names within IP RepositoryManager
+   for 'xilinx.com:ip:tri_mode_eth_mac:4.5' and
+   'xilinx.com:ip:tri_mode_eth_mac:4.4' (tri_mode_eth_mac)
+WARNING:coreutil:804 - Duplication of module names within IP RepositoryManager
+   for 'xilinx.com:ip:tri_mode_eth_mac:4.6' and
+   'xilinx.com:ip:tri_mode_eth_mac:4.4' (tri_mode_eth_mac)
+WARNING:coreutil:804 - Duplication of module names within IP RepositoryManager
+   for 'xilinx.com:ip:tri_mode_eth_mac:5.1' and
+   'xilinx.com:ip:tri_mode_eth_mac:4.4' (tri_mode_eth_mac)
+WARNING:coreutil:804 - Duplication of module names within IP RepositoryManager
+   for 'xilinx.com:ip:tri_mode_eth_mac:5.2' and
+   'xilinx.com:ip:tri_mode_eth_mac:4.4' (tri_mode_eth_mac)
+WARNING:coreutil:804 - Duplication of module names within IP RepositoryManager
+   for 'xilinx.com:ip:tri_mode_eth_mac:5.3' and
+   'xilinx.com:ip:tri_mode_eth_mac:4.4' (tri_mode_eth_mac)
+WARNING:coreutil:804 - Duplication of module names within IP RepositoryManager
+   for 'xilinx.com:ip:tri_mode_eth_mac:5.4' and
+   'xilinx.com:ip:tri_mode_eth_mac:4.4' (tri_mode_eth_mac)
+WARNING:coreutil:804 - Duplication of module names within IP RepositoryManager
+   for 'xilinx.com:ip:tri_mode_eth_mac:5.5' and
+   'xilinx.com:ip:tri_mode_eth_mac:4.4' (tri_mode_eth_mac)
+Finished license status viewer.
+View License StatusINFO:sim:172 - Generating IP...
+WARNING:sim:100 - The Simulation File Type <Behavioral> is not valid for this
+   core. Overriding with File Type <structural>.
+Starting license status viewer...
+WARNING:coreutil:804 - Duplication of module names within IP RepositoryManager
+   for 'xilinx.com:ip:tri_mode_eth_mac:4.5' and
+   'xilinx.com:ip:tri_mode_eth_mac:4.4' (tri_mode_eth_mac)
+WARNING:coreutil:804 - Duplication of module names within IP RepositoryManager
+   for 'xilinx.com:ip:tri_mode_eth_mac:4.6' and
+   'xilinx.com:ip:tri_mode_eth_mac:4.4' (tri_mode_eth_mac)
+WARNING:coreutil:804 - Duplication of module names within IP RepositoryManager
+   for 'xilinx.com:ip:tri_mode_eth_mac:5.1' and
+   'xilinx.com:ip:tri_mode_eth_mac:4.4' (tri_mode_eth_mac)
+WARNING:coreutil:804 - Duplication of module names within IP RepositoryManager
+   for 'xilinx.com:ip:tri_mode_eth_mac:5.2' and
+   'xilinx.com:ip:tri_mode_eth_mac:4.4' (tri_mode_eth_mac)
+WARNING:coreutil:804 - Duplication of module names within IP RepositoryManager
+   for 'xilinx.com:ip:tri_mode_eth_mac:5.3' and
+   'xilinx.com:ip:tri_mode_eth_mac:4.4' (tri_mode_eth_mac)
+WARNING:coreutil:804 - Duplication of module names within IP RepositoryManager
+   for 'xilinx.com:ip:tri_mode_eth_mac:5.4' and
+   'xilinx.com:ip:tri_mode_eth_mac:4.4' (tri_mode_eth_mac)
+WARNING:coreutil:804 - Duplication of module names within IP RepositoryManager
+   for 'xilinx.com:ip:tri_mode_eth_mac:5.5' and
+   'xilinx.com:ip:tri_mode_eth_mac:4.4' (tri_mode_eth_mac)
+WARNING:coreutil:804 - Duplication of module names within IP RepositoryManager
+   for 'xilinx.com:ip:tri_mode_eth_mac:4.5' and
+   'xilinx.com:ip:tri_mode_eth_mac:4.4' (tri_mode_eth_mac)
+WARNING:coreutil:804 - Duplication of module names within IP RepositoryManager
+   for 'xilinx.com:ip:tri_mode_eth_mac:4.6' and
+   'xilinx.com:ip:tri_mode_eth_mac:4.4' (tri_mode_eth_mac)
+WARNING:coreutil:804 - Duplication of module names within IP RepositoryManager
+   for 'xilinx.com:ip:tri_mode_eth_mac:5.1' and
+   'xilinx.com:ip:tri_mode_eth_mac:4.4' (tri_mode_eth_mac)
+WARNING:coreutil:804 - Duplication of module names within IP RepositoryManager
+   for 'xilinx.com:ip:tri_mode_eth_mac:5.2' and
+   'xilinx.com:ip:tri_mode_eth_mac:4.4' (tri_mode_eth_mac)
+WARNING:coreutil:804 - Duplication of module names within IP RepositoryManager
+   for 'xilinx.com:ip:tri_mode_eth_mac:5.3' and
+   'xilinx.com:ip:tri_mode_eth_mac:4.4' (tri_mode_eth_mac)
+WARNING:coreutil:804 - Duplication of module names within IP RepositoryManager
+   for 'xilinx.com:ip:tri_mode_eth_mac:5.4' and
+   'xilinx.com:ip:tri_mode_eth_mac:4.4' (tri_mode_eth_mac)
+WARNING:coreutil:804 - Duplication of module names within IP RepositoryManager
+   for 'xilinx.com:ip:tri_mode_eth_mac:5.5' and
+   'xilinx.com:ip:tri_mode_eth_mac:4.4' (tri_mode_eth_mac)
+Finished license status viewer.
